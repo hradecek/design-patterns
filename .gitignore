@@ -1,0 +1,6 @@
+# Compiled files
+target/
+
+# IntelliJ IDEA files
+.idea/
+*iml
