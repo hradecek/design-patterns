@@ -6,6 +6,7 @@ In strategy desing pattern, an algorithm's behavior can be selected at runtime. 
 *Figure 1: Strategy pattern in UML*
 
 ## Open/Closed principle
+According to the strategy patter, the behaviors should not be interited. Instead of intheritence, behaviors should be encapsulated using interfaces.
 
 ***
 #### References:
@@ -15,3 +16,7 @@ In strategy desing pattern, an algorithm's behavior can be selected at runtime. 
  - *[Head First Design Patterns](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns?ac=1&from_search=true)*.
 
 ##### Online:
+ - *[Strategy Pattern @ en.wikipedia.org](https://en.wikipedia.org/wiki/Strategy_pattern)*.
+
+##### Videos:
+ - *[Strategy Design Patter Explained @ YouTube](https://www.youtube.com/watch?v=ptnxVrsarZc)* [7:33].
