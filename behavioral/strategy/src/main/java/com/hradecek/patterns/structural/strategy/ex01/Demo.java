@@ -1,6 +1,6 @@
 package com.hradecek.patterns.structural.strategy.ex01;
 
-class StrategyPatternDemo {
+class Demo {
 
     public static void main(String[] args) {
         Context context = new Context(new OperationAdd());
