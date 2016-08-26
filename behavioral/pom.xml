@@ -14,7 +14,7 @@
   <packaging>pom</packaging>
 
   <name>behavioral-design-patterns</name>
-  <url>http://github.com/hradecek</url>
+  <url>http://github.com/hradecek/design-patterns</url>
 
   <modules>
     <module>strategy</module>

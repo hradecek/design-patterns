@@ -1,4 +1,4 @@
-package com.hradecek.patterns.structural.strategy.ex02;
+package com.hradecek.patterns.behavioral.strategy.ex02;
 
 public class Demo {
 

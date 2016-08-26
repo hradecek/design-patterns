@@ -1,4 +1,4 @@
-package com.hradecek.patterns.structural.strategy.ex01;
+package com.hradecek.patterns.behavioral.strategy.ex01;
 
 class OperationSubtract implements Strategy {
 
