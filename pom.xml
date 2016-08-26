@@ -16,6 +16,10 @@
         <module>structural</module>
     </modules>
 
+    <properties>
+        <version.exec.maven.plugin>1.2.1</version.exec.maven.plugin>
+    </properties>
+
     <build>
         <pluginManagement>
             <plugins>
