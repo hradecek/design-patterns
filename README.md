@@ -6,6 +6,7 @@ Design patterns by categories:
   * [Strategy](https://github.com/hradecek/design-patterns/tree/master/behavioral/strategy)
 * [Creational]()
 * [Structural](https://github.com/hradecek/design-patterns/tree/master/structural)
+  * [Composite](https://github.com/hradecek/design-patterns/tree/master/structural/composite)
   * [Decorator](https://github.com/hradecek/design-patterns/tree/master/structural/decorator)
 
 ***
