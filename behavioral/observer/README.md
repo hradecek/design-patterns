@@ -12,7 +12,7 @@ Intent:
 *Figure 1: Observer pattern in UML*
 
 ***
-#### References:
+#### References
 
 ##### Online:
  - *[Observer Pattern @ en.wikipedia.org](https://en.wikipedia.org/wiki/Observer_pattern)*,

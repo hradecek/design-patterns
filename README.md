@@ -9,7 +9,7 @@ Design patterns by categories:
   * [Decorator](https://github.com/hradecek/design-patterns/tree/master/structural/decorator)
 
 ***
-#### References:
+#### References
 
 ##### Books:
  - *[Design patterns elements of reusable object-oriented software](https://www.goodreads.com/book/show/85009.Design_Patterns)*,
