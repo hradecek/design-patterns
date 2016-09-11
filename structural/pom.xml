@@ -17,6 +17,7 @@
   <url>http://github.com/hradecek/design-patterns/tree/master/structural</url>
 
   <modules>
+    <module>composite</module>
     <module>decorator</module>
   </modules>
 
