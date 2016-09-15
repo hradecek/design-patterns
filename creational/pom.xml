@@ -16,4 +16,9 @@
 
   <name>creational-design-patterns</name>
   <url>https://github.com/hradecek/design-patterns/tree/master/creational</url>
+
+  <modules>
+    <module>abstract-factory</module>
+  </modules>
+
 </project>
