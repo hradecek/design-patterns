@@ -19,6 +19,11 @@
 
   <modules>
     <module>abstract-factory</module>
+    <module>builder</module>
+    <module>factory-method</module>
+    <module>object-pool</module>
+    <module>prototype</module>
+    <module>singleton</module>
   </modules>
 
 </project>
